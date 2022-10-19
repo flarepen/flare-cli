@@ -1,0 +1,40 @@
+[
+    {
+        "id": "e1",
+        "x": 377,
+        "y": 240,
+        "width": 33,
+        "height": 12,
+        "type": "rectangle"
+    },
+    {
+        "id": "e2",
+        "x": 1196,
+        "y": 270,
+        "width": 34,
+        "height": 11,
+        "type": "rectangle"
+    },
+    {
+        "id": "e3",
+        "x": 728,
+        "y": 420,
+        "len": 38,
+        "direction": "right",
+        "type": "arrow"
+    },
+    {
+        "id": "e5",
+        "x": 507,
+        "y": 390,
+        "content": "Hey There",
+        "type": "text"
+    },
+    {
+        "id": "e6",
+        "x": 1365,
+        "y": 420,
+        "content": "Okay",
+        "type": "text"
+    }
+]
