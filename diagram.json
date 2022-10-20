@@ -1,40 +1,40 @@
 [
     {
         "id": "e1",
-        "x": 377,
-        "y": 240,
-        "width": 33,
-        "height": 12,
+        "x": 17,
+        "y": 9,
+        "width": 26,
+        "height": 8,
         "type": "rectangle"
     },
     {
         "id": "e2",
-        "x": 1196,
-        "y": 270,
-        "width": 34,
-        "height": 11,
+        "x": 61,
+        "y": 9,
+        "width": 24,
+        "height": 8,
         "type": "rectangle"
     },
     {
         "id": "e3",
-        "x": 728,
-        "y": 420,
-        "len": 38,
+        "x": 36,
+        "y": 12,
+        "len": 35,
         "direction": "right",
         "type": "arrow"
     },
     {
-        "id": "e5",
-        "x": 507,
-        "y": 390,
-        "content": "Hey There",
+        "id": "e4",
+        "x": 25,
+        "y": 12,
+        "content": "Code",
         "type": "text"
     },
     {
-        "id": "e6",
-        "x": 1365,
-        "y": 420,
-        "content": "Okay",
+        "id": "e5",
+        "x": 74,
+        "y": 12,
+        "content": "Test",
         "type": "text"
     }
 ]
